@@ -13,7 +13,7 @@
 // console.log("'Добро '+'пожаловать '+' на курс' '+' 'Никита'")
 // alert("17.01.2023")
 
-document.getElementById('first').innerHTML -'Hello World'
+//document.getElementById('first').innerHTML ='Hello World'
 
 // 1 тип данных числовой (number)
 // console.log(Infinity); //infinity
@@ -62,3 +62,11 @@ document.getElementById('first').innerHTML -'Hello World'
 // console.log(typeof null)
 
 
+
+
+let number = prompt('Число?')
+console.log(number)
+
+if(number > 100){
+ alert('Вывод на страницу')
+ }
