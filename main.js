@@ -63,10 +63,11 @@
 
 
 
+// let number = prompt('Число?')
 
-let number = prompt('Число?')
-console.log(number)
-
-if(number > 100){
- alert('Вывод на страницу')
- }
+// if(number > 100){
+//  alert('Вывод на страницу')
+//  }
+//  else{
+//     console.log(number)
+// }
