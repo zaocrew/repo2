@@ -71,3 +71,63 @@
 //  else{
 //     console.log(number)
 // }
+
+
+
+
+
+
+
+
+
+
+//Домашнее задание 4 - 1 часть
+// let a = 10
+// let b = 5
+// if(a + b >= 15){
+//     console.log('ДА')
+// }
+// else{
+//     console.log('НЕТ')
+// }
+
+//Домашнее задание 4 - 2 часть
+// let a = 10;
+// let b = '10';
+//     console.log(a === b)
+
+
+
+
+
+
+
+
+
+
+
+//УРОК 6 ДЗ
+
+// let firstname = null;
+// let lastname =  FALSE;
+// let nickname = 'John Snow(Stark)'
+
+//alert (firstname || lastname || nickname || 'Аноним')
+
+
+
+
+// let number = + promt('Введите число от 0 до 3','')
+// //переписать на switchcase          (else это default)
+// if(number ===0){
+// alert('Вы ввели число 0')
+// } 
+// if(number ===1){
+//     alert('Вы ввели число 1')
+// }
+// if(number ===2 || number===3){
+//     alert('Вы ввели 2 или 3')
+// }
+// else {
+//     alert('Вы ввели некоректное значение')
+// }
