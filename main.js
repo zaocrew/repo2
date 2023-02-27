@@ -127,6 +127,88 @@
 
 
 
+// Домашнее задание 6 - часть 1
+
+//    let a = 5
+//    let arg =prompt('Введите число')
+    
+//     switch(arg){
+   
+//     case '1':
+//     alert ('ДА')
+//     console.log(typeof arg)
+//     break;
+//     case '2':
+//     alert('НЕТ')
+//     break;
+//     default:
+//     alert('Значение неизвестно')
+//     }
+
+// Домашнее задание 6 - часть 2
+
+   
+//    let a = prompt('Введите число')
+    
+//     switch(a){
+   
+//     case '1':
+//         case '2':
+            
+//     alert ('зима')
+//     console.log(typeof a)
+//     break;
+//     case '3':
+//         case '4':
+//             case '5':
+//     alert('весна')
+//     break;
+//     case '6':
+//         case '7':
+//             case '8':
+//     alert('лето')
+//     break;
+//     case '9':
+//         case '10':
+//             case '11':
+//                 case '12':
+//     alert('осень')
+//     break;
+//     default:
+//     alert('Значение неизвестно')
+//     }
+
+// Домашнее задание 6 - часть 3
+
+// let firstName = undefined;
+// let lastName = null;
+// let nickName = 'Shrek'
+
+
+// alert(firstName ?? lastName ?? nickName ?? 'Аноним' )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// обновление репозитория в гитхабе:
+// git add .
+// git commit -m 'fix bug'
+// git push
+
+
+
 
 
 
